@@ -73,7 +73,7 @@ class Resume extends Component {
                   Engineer in Web development <span>&bull;</span>
                     <em className="date">March 2022</em>
                   </p>
-                  <p>I'm preparing a high</p>
+                  <p>Already gratuated from forein university in 2011</p>
                 </div>
                 </div>
               </div>

@@ -15,8 +15,8 @@ class About extends Component {
             <div className="nine columns main-col">
               <h2>About Me</h2>
 
-              <p>I’m Djamel, a junior full-stack engineer, creative coder and self-proclaimed
-                                        designer who has a passion for the front-end spectrum.</p>
+              <p>I’m a junior full-stack developer, creative coder and self-proclaimed
+                                        designer who has a passion for the front-end spectrum,also have a great skills and understanding of back-end.</p>
                                         <p>
                                 I love creating, whether those things are web applications, CodePen creations,
                                 mobile apps, podcasts, or tinkering around in Photoshop or Illustrator.
